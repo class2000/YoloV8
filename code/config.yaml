@@ -1,0 +1,6 @@
+path: /Users/andreidanila/Downloads/Plastic_Detection_DAV/code/data  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+names:
+  0: bottle
